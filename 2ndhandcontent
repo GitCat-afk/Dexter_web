@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Shipment</title>
+</head>
+<body style="background-color:darkgrey;">
+	<a href="file:///C:/Users/user/OneDrive/Desktop/COMPPROG.html"><button style="font-size: 50px; background-color: #a37756; color:#d4dbeb;">Information</button></a>
+		<center><h1 style="background-color: gold; font-size: 80px;  font-family: serif; color: lightslategray;">Items/inventions on sale and their amounts!</h1></center>
+		<center><h2 style="background-color: midnightblue; font-size: 60px; font-family: serif; color: floralwhite;">3d printer!</h2></center>
+		<center><p style="font-size:35px; font-family: sans-serif; background-color: lightslategray;"> Only 3 in stock, get it now!</p></center>
+		<img src="3dprinter.jfif">
+		<center><p style="font-size:35px; font-family: sans-serif; background-color: lightslategray;">Cost- 80$</p></center>
+		<center><h3 style="background-color: midnightblue; font-size: 60px; font-family: serif; color: floralwhite;">Heat ray!</h3></center>
+		<center><p style="font-size:35px; font-family: sans-serif; background-color: lightslategray;">9 in stock, feel free to buy! </p></center>
+		<img src="arc.jpg">
+		<center><p style="font-size:35px; font-family: sans-serif; background-color: lightslategray;"> Cost- 45$</p></center>
+		<center><h4 style="background-color: midnightblue; font-size: 60px; font-family: serif; color: floralwhite;">Mom-droid!</h4></center>
+		<center><p style="font-size:35px; font-family: sans-serif; background-color: lightslategray;">Who wants another?, only 1 IN STOCK!!!</p></center>
+		<img src="droid.jpg">
+		<center><p style="font-size:35px; font-family: sans-serif; background-color: lightslategray;">Cost- 300$</p></center>
+		<center><h5 style="background-color: midnightblue; font-size: 60px; font-family: serif; color: floralwhite;">Beast PC!</h5></center>
+		<center><p style="font-size:35px; font-family: sans-serif; background-color: lightslategray;">Dexter's got too many, well at least you can enjoy gaming!</p></center>
+		<img src="pc.jfif">
+		<center><p style="font-size:35px; font-family: sans-serif; background-color: lightslategray;">Cost- 1000$</p></center>
+		<center><h6 style="background-color: midnightblue; font-size: 60px; font-family: serif; color: floralwhite;">Robo-Dexo 2000!, only 2 left</h6></center>
+		<center><p style="font-size:35px; font-family: sans-serif; background-color: lightslategray;">A powerfull tool to fight villians and aliens!</p></center>
+		<img src="robo2.png">
+		<center><p style="font-size:35px; font-family: sans-serif; background-color: lightslategray;">Cost- 100,000$</p></center>
+		<center><h7 style="background-color: midnightblue; font-size: 60px; font-family: serif; color: floralwhite;">Multi-Formic Megabot!, only 1 LEFT!</h7></center>
+		<center><p style="font-size:35px; font-family: sans-serif; background-color: lightslategray;">The most POWERFULL thing to figth villians and enemies!</p></center>
+		<img src="mega.jfif">
+		<center><p style="font-size:35px; font-family: sans-serif; background-color: lightslategray;">Cost- 10,000,000$</p></center>
+		<p style="font-size:42px; font-family: sans-serif; background-color: black; color: white;">NOTICE: When out of stock, items will only be refilled after 48 hours.</p>
+
+    
+</body>
+</html>
