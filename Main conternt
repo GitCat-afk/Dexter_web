@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+     <title>Dexters Lab</title>
+</head>
+<body style="background-color:darkgrey;">
+  <a href="file:///C:/Users/user/OneDrive/Desktop/stock.html"><button style="font-size: 50px; background-color: #a37756; color:#d4dbeb;">Manage Sales</button></a>
+   <center><h1 style="background-color: gold; font-size: 80px;  font-family: serif; color: lightslategray;">Dexters equipment!</h1 .main></center>
+  <center><h2 style="background-color: midnightblue; font-size: 60px; font-family: serif; color: floralwhite;">3d printer</h2></center>
+  <p style="font-size:35px; font-family: sans-serif; background-color: lightslategray;">Well as we all know 3D printing or additive manufacturing is the construction of a three-dimensional object from a CAD model or a digital 3D model. No wonder dexter managed to make his mom-driod.</p>
+   <center><h3 style="background-color: midnightblue; font-size: 60px; font-family: serif; color: floralwhite;">A Beast pc!</h3></center>
+  <p style="font-size:35px; font-family: sans-serif; background-color: lightslategray;">How can dexter live without that, I mean, everyone needs a pc to do SOMETHING for their inventions. Including 3d modeling!</p>
+   <center><h4 style="background-color: midnightblue; font-size: 60px; font-family: serif; color: floralwhite;">Heat-ray machine</h4></center>
+  <center><p style="font-size:35px; font-family: sans-serif; background-color: lightslategray;">A usefull tool to smelt, merge itmes etc...</p></center>
+
+</body>
+</html>
